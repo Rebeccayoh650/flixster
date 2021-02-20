@@ -45,4 +45,4 @@ I encountered challenges when connecting the outlets to files. I also had diffic
 <img src="http://g.recordit.co/fxu9RP5d1S.gif" width=250><br>
 
 ### Notes
-I was having troublw with the collection class but I fixed it by going to office hors and recoding a portion the movies grid controller class.
+I was having trouble with the collection class getting cut off but I fixed it by going to office hors and recoding a portion the movies grid controller class.

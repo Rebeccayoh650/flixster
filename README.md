@@ -26,3 +26,23 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 I encountered challenges when connecting the outlets to files. I also had difficulties between the nameing of classes that created runtime errors in the beginning.
+
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="http://g.recordit.co/fxu9RP5d1S.gif" width=250><br>
+
+### Notes
+I was having troublw with the collection class but I fixed it by going to office hors and recoding a portion the movies grid controller class.
